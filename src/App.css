@@ -1,0 +1,25 @@
+/* styles.css */
+
+.imagen-estilo {
+  width: 100px;
+  height: 100px;
+  object-fit: cover; /* Para que la imagen mantenga su aspecto al ajustarse */
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Fondo gris claro */
+}
+
+.card {
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #fff;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 300px;
+}
