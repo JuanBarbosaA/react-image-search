@@ -1,68 +1,63 @@
 # React Image Search 🔍
 
-Una galería de imágenes moderna y responsive construida con **React** y **Vite** que permite a los usuarios buscar imágenes usando la **API de Pixabay**. El proyecto incluye una barra de búsqueda dinámica, diseño de cuadrícula responsive y un diseño limpio para una experiencia de usuario intuitiva.
+A modern and responsive image gallery built with **React** and **Vite** that allows users to search for images using the **Pixabay API**. The project features a dynamic search bar, responsive grid layout, and clean design for an intuitive user experience.
 
-## ✨ Características
+## ✨ Features
 
-- **Búsqueda Dinámica:** Busca imágenes en tiempo real usando la API de Pixabay
-- **Diseño Responsive:** Funciona perfectamente en móviles, tablets y desktop
-- **UI Moderna:** Estilizada con **Tailwind CSS** para un aspecto limpio y profesional
-- **Rendimiento Optimizado:** Desarrollado con React y Vite para máxima velocidad
+- **Dynamic Search:** Search for images in real-time using the Pixabay API
+- **Responsive Design:** Works perfectly on mobile, tablet, and desktop
+- **Modern UI:** Styled with **Tailwind CSS** for a clean and professional look
+- **Optimized Performance:** Built with React and Vite for maximum speed
 
 ## 🚀 Demo
 
-Puedes ver un demo en vivo aquí:  
-*(Agrega tu enlace de GitHub Pages o deployment aquí)*
+You can see a live demo here:  
+[React Image Search Live Demo](https://react-image-search-af9bh2p19-juan-barbosas-projects.vercel.app/)
+ 
+## 📸 Screenshots
+![Screenshot of React Image Search](assets/home.png)
 
-## 📸 Capturas de Pantalla
+## 🛠️ Installation
 
-*(Agrega capturas de pantalla de tu proyecto aquí)*
-
-## 🛠️ Instalación
-
-1. **Clona el repositorio**:
+1. **Clone the repository**:
 ```bash
-git clone https://github.com/tu-usuario/react-image-search.git
+git clone https://github.com/JuanBarbosaA/react-image-search.git
 ```
 
-2. **Navega al directorio del proyecto**:
+2. **Navigate to the project directory:**:
 ```bash
 cd react-image-search
 ```
 
-3. **Instala las dependencias**:
+3. **Install dependencies**:
 ```bash
 npm install
 ```
 
-4. **Inicia el servidor de desarrollo**:
+4. **Start the development server**:
 ```bash
 npm run dev
 ```
 
-5. **Abre en el navegador**:
-Ve a `http://localhost:5173` (o el puerto que muestre tu terminal)
+5. **Open in browser**:
+Go to `http://localhost:5173` (or the port shown in your terminal)
 
-## 📖 Uso
+## 📖 Usage
 
-- Escribe una palabra clave en la barra de búsqueda para encontrar imágenes
-- Desplázate por la cuadrícula responsive para explorar resultados
-- Haz clic en las imágenes para verlas en tamaño completo (si implementas un modal)
+- Type a keyword in the search bar to find images
+- Scroll through the responsive grid to explore results
+- Click on images to view them in full size (if you implement a modal)
 
-## 🧰 Tecnologías Utilizadas
+## 🧰 Technologies Used
 
-- **React** - Biblioteca frontend para interfaces de usuario
-- **Vite** - Herramienta rápida de desarrollo y build
-- **Tailwind CSS** - Framework de CSS utility-first
-- **Pixabay API** - API gratuita de búsqueda de imágenes
+- **React** - Frontend library for user interfaces
+- **Vite** - Fast development and build tool
+- **Tailwind CSS** - Utility-first CSS framework
+- **Pixabay API** - Free image search API
 
-## 📄 Licencia
+## 👨‍💻 Author
 
-Este proyecto es open source y está disponible bajo la **Licencia MIT**.
-
-## 👨‍💻 Autor
-
-**Tu Nombre** - [Perfil de GitHub](https://github.com/tu-usuario)
+**Juan Barbosa** - [Perfil de GitHub](https://github.com/JuanBarbosaA)
 
 ---
 
