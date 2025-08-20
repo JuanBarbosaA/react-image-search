@@ -15,7 +15,7 @@ You can see a live demo here:
 [React Image Search Live Demo](https://react-image-search-af9bh2p19-juan-barbosas-projects.vercel.app/)
  
 ## 📸 Screenshots
-![Screenshot of React Image Search](assets/home.png)
+![Screenshot of React Image Search](public/home.png)
 
 ## 🛠️ Installation
 
